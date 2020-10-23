@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.014bdffe.chunk.css",
-    "main.js": "/static/js/main.6dee1924.chunk.js",
-    "main.js.map": "/static/js/main.6dee1924.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b693a1a2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b693a1a2.js.map",
-    "static/css/2.94491f11.chunk.css": "/static/css/2.94491f11.chunk.css",
-    "static/js/2.8422ae54.chunk.js": "/static/js/2.8422ae54.chunk.js",
-    "static/js/2.8422ae54.chunk.js.map": "/static/js/2.8422ae54.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9637a8272d81b3334ce299749d457e2c.js": "/precache-manifest.9637a8272d81b3334ce299749d457e2c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.94491f11.chunk.css.map": "/static/css/2.94491f11.chunk.css.map",
-    "static/css/main.014bdffe.chunk.css.map": "/static/css/main.014bdffe.chunk.css.map",
-    "static/js/2.8422ae54.chunk.js.LICENSE.txt": "/static/js/2.8422ae54.chunk.js.LICENSE.txt"
+    "main.css": "/Alekhbariya/static/css/main.014bdffe.chunk.css",
+    "main.js": "/Alekhbariya/static/js/main.707a2673.chunk.js",
+    "main.js.map": "/Alekhbariya/static/js/main.707a2673.chunk.js.map",
+    "runtime-main.js": "/Alekhbariya/static/js/runtime-main.90e6ba4d.js",
+    "runtime-main.js.map": "/Alekhbariya/static/js/runtime-main.90e6ba4d.js.map",
+    "static/css/2.94491f11.chunk.css": "/Alekhbariya/static/css/2.94491f11.chunk.css",
+    "static/js/2.8422ae54.chunk.js": "/Alekhbariya/static/js/2.8422ae54.chunk.js",
+    "static/js/2.8422ae54.chunk.js.map": "/Alekhbariya/static/js/2.8422ae54.chunk.js.map",
+    "index.html": "/Alekhbariya/index.html",
+    "precache-manifest.315e837f20faecbf183d131e604f2908.js": "/Alekhbariya/precache-manifest.315e837f20faecbf183d131e604f2908.js",
+    "service-worker.js": "/Alekhbariya/service-worker.js",
+    "static/css/2.94491f11.chunk.css.map": "/Alekhbariya/static/css/2.94491f11.chunk.css.map",
+    "static/css/main.014bdffe.chunk.css.map": "/Alekhbariya/static/css/main.014bdffe.chunk.css.map",
+    "static/js/2.8422ae54.chunk.js.LICENSE.txt": "/Alekhbariya/static/js/2.8422ae54.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b693a1a2.js",
+    "static/js/runtime-main.90e6ba4d.js",
     "static/css/2.94491f11.chunk.css",
     "static/js/2.8422ae54.chunk.js",
     "static/css/main.014bdffe.chunk.css",
-    "static/js/main.6dee1924.chunk.js"
+    "static/js/main.707a2673.chunk.js"
   ]
 }
