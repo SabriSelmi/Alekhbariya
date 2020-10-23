@@ -5,7 +5,9 @@ import HomePage from './pages/HomePage/HomePage';
 const Routes = () => {
     return ( 
         <React.Fragment>
-            <Route exact path="/Alekhbariya" component={HomePage} />
+            {/* Need this route only for deploying */}
+                <Route exact path="/Alekhbariya" component={HomePage} />
+            {/*********/}
             <Route exact path="/" component={HomePage} />
         </React.Fragment>
      );
