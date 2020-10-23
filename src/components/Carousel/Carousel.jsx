@@ -2,11 +2,12 @@ import React from "react";
 import OwlCarousel from 'react-owl-carousel';
 import CarouselItem from "./CarouselItem";
 
-const Carousel = ({className, itemsNumber, items, dots, margin, autoplay, loop, showDescription, classTitle}) =>{
+const Carousel = ({className, itemsNumber, items, dots, margin, autoplay, loop, showDescription, classTitle, responsive}) =>{
     return (
         <OwlCarousel
             className={className}
-            lazyLoad={false}
+            lazyLoad={true}
+            lazyContent={true}
             rtl="t"
             margin={margin}
             nav={false}
@@ -15,6 +16,8 @@ const Carousel = ({className, itemsNumber, items, dots, margin, autoplay, loop, 
             items={itemsNumber}
             autoplay={autoplay}
             loop={loop}
+            responsiveClass={true}
+            responsive={responsive}
         >
             {items.map((item, key)=><CarouselItem key={key} {...item} showDescription={showDescription} classTitle={classTitle}/>)}
         </OwlCarousel>
