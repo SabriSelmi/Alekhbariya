@@ -34,7 +34,7 @@ const NavBar = () =>{
 
     const toggleSideBar = () =>{
         let body = document.getElementsByTagName("body")[0];
-        let className = classSideBar ? "ar yay-hide" : "ar";
+        let className = classSideBar ? "ar yay-hide" : "ar overlay";
         let nano = document.getElementsByClassName("nano-pane")[0];
         let nanoClass = classSideBar ? "nano-pane none" : "nano-pane";
         body.setAttribute("class", className);

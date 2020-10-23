@@ -19,6 +19,22 @@
   color: #fff;
 }
 
+.overlay:after {
+	content: '';
+    display: block;
+    position: absolute;
+    cursor: pointer;
+    visibility: visible;
+    opacity: 1;
+    top: -50px;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background: rgba(0,0,0,.5);
+    z-index: 55;
+    transition: opacity 300ms ease-in-out, visibility 300ms ease-in-out;
+  }
+
 *, *::before, *::after{margin:0;padding:0;outline:none !important;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;}
 *:focus, a:focus{outline:none !important;}
 html{overflow-x:hidden;}
