@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Alekhbariya/static/css/main.7d755ba7.chunk.css",
-    "main.js": "/Alekhbariya/static/js/main.3c6bba3d.chunk.js",
-    "main.js.map": "/Alekhbariya/static/js/main.3c6bba3d.chunk.js.map",
+    "main.js": "/Alekhbariya/static/js/main.baafeab0.chunk.js",
+    "main.js.map": "/Alekhbariya/static/js/main.baafeab0.chunk.js.map",
     "runtime-main.js": "/Alekhbariya/static/js/runtime-main.90e6ba4d.js",
     "runtime-main.js.map": "/Alekhbariya/static/js/runtime-main.90e6ba4d.js.map",
     "static/css/2.94491f11.chunk.css": "/Alekhbariya/static/css/2.94491f11.chunk.css",
     "static/js/2.8422ae54.chunk.js": "/Alekhbariya/static/js/2.8422ae54.chunk.js",
     "static/js/2.8422ae54.chunk.js.map": "/Alekhbariya/static/js/2.8422ae54.chunk.js.map",
     "index.html": "/Alekhbariya/index.html",
-    "precache-manifest.0d8bde6b3a7c83ee5fe866f0e83886b6.js": "/Alekhbariya/precache-manifest.0d8bde6b3a7c83ee5fe866f0e83886b6.js",
+    "precache-manifest.d074b6af34e1225385f61f8f511aebf0.js": "/Alekhbariya/precache-manifest.d074b6af34e1225385f61f8f511aebf0.js",
     "service-worker.js": "/Alekhbariya/service-worker.js",
     "static/css/2.94491f11.chunk.css.map": "/Alekhbariya/static/css/2.94491f11.chunk.css.map",
     "static/css/main.7d755ba7.chunk.css.map": "/Alekhbariya/static/css/main.7d755ba7.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.94491f11.chunk.css",
     "static/js/2.8422ae54.chunk.js",
     "static/css/main.7d755ba7.chunk.css",
-    "static/js/main.3c6bba3d.chunk.js"
+    "static/js/main.baafeab0.chunk.js"
   ]
 }
