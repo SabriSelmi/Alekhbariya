@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Alekhbariya/precache-manifest.7fbca5cff7e1557ecde08d0f57c63b19.js"
+  "/Alekhbariya/precache-manifest.49fe2e85d6c48d8df23db9b5a753dc69.js"
 );
 
 self.addEventListener('message', (event) => {
