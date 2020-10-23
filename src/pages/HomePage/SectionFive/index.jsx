@@ -3,9 +3,9 @@ import Carousel from '../../../components/Carousel/Carousel';
 import {items} from "../../../data";
 
 const SectionFive = () => {
-    const data = items.slice(items.length-4,items.length)
+    const data = items.slice(items.length-5,items.length)
     return ( 
-        <section className="albums">
+        <section className="albums ltr">
             <Carousel
                 className={"owl-albums owl-carousel owl-theme owl-rtl owl-loaded owl-drag"}
                 itemsNumber={4}
@@ -18,13 +18,19 @@ const SectionFive = () => {
                 classTitle="mediumTitle"
                 responsive={{
                     0:{
-                        items:1
+                        items : 1
                     },
-                    600:{
+                    480:{
+                        items:2
+                    },
+                    768:{
                         items:3
                     },
-                    1000:{
+                    992:{
                         items:4
+                    },
+                    1600:{
+                        items:5
                     }
                 }}
             />	
