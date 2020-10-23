@@ -1,0 +1,245 @@
+export const items = [
+    {
+        mainLink : "/ar/article/11729/%D9%86%D8%B5%D8%A7%D9%81-%D8%A8%D9%86-%D8%B9%D9%84%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%B6%D8%BA%D9%88%D8%B7%D8%A7%D8%AA-%D8%B3%D9%8A%D8%A7%D8%AD%D9%8A%D8%A9-%D9%81%D8%B1%D8%B6%D8%AA-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A5%D8%AC%D8%A8%D8%A7%D8%B1%D9%8A-%D8%A5%D8%AB%D8%B1-%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/medium/1603393956.png", 
+        figCaptionLink : "/ar/articles/11/%D9%88%D8%B7%D9%86%D9%8A%D8%A9", 
+        figCaption : "وطنية", 
+        time : "2020-10-22 20:12", 
+        description : `أكدت الناطقة باسم وزارة الصحة، المديرة العامة للمرصد الوطني للأمراض الجديدة والمستجدة نصاف بن علية`,
+        title : `أكدت الناطقة باسم وزارة الصحة، المديرة العامة للمرصد الوطني للأمراض الجديدة والمستجدة نصاف بن علية`,
+        type:"politics",
+        read_number : 2547
+    },
+    {
+        mainLink : "/ar/article/11728/%D8%AA%D8%A3%D9%83%D9%8A%D8%AF%D8%A7-%D9%84%D8%B3%D8%A8%D9%82-%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AA%D9%85%D8%AF%D9%8A%D8%AF-%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D9%81%D9%8A-%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89-%D9%88%D9%81%D9%82-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D9%8A%D8%AA", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/medium/1603393566.jpg", 
+        figCaptionLink : "/ar/articles/11/%D9%88%D8%B7%D9%86%D9%8A%D8%A9", 
+        figCaption : "وطنية", 
+        time : "2020-10-22 20:06", 
+        description : `مثلما سبقت بذلك "الاخبارية" صباح اليوم تم مساء اليوم الخميس الاعلان رسميا عن تمديد حظر الجول`,
+        title : `مثلما سبقت بذلك "الاخبارية" صباح اليوم تم مساء اليوم الخميس الاعلان رسميا عن تمديد حظر الجول`,
+        type:"society",
+        read_number : 5547
+    },
+    {
+        mainLink : "/ar/article/11727/%D9%87%D8%B0%D9%87-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%87%D9%89-%D9%88%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D8%B9%D9%85-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D9%8A%D8%A9-%D8%AA%D9%88%D9%86%D8%B3", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/medium/1603393245.jpg", 
+        figCaptionLink : "/ar/articles/11/%D9%88%D8%B7%D9%86%D9%8A%D8%A9", 
+        figCaption : "وطنية", 
+        time : " 2020-10-22 20:00", 
+        description : `قال رئيس مكتب الشرطة البيئية في بلدية تونس طارق باكير، إنه ومنذ دخول قرار حظر الجولان في ولاية تونس`,
+        title : `قال رئيس مكتب الشرطة البيئية في بلدية تونس طارق باكير، إنه ومنذ دخول قرار حظر الجولان في ولاية تونس`,
+        type:"politics",
+        read_number : 6347
+    },
+    {
+        mainLink : "/ar/article/11725/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%8A-%D8%B3%D9%84-%D9%85-%D8%A3%D9%88%D8%B1%D8%A7%D9%82-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-4-%D8%B3%D9%81%D8%B1%D8%A7%D8%A1-%D8%AC%D8%AF%D8%AF", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/medium/1603390468.jpg", 
+        figCaptionLink : "/ar/articles/11/%D9%88%D8%B7%D9%86%D9%8A%D8%A9", 
+        figCaption : "وطنية", 
+        time : "2020-10-22 19:14", 
+        description : `أعلنت رئاسة الجمهورية مساء اليوم الخميس 22 اكتوبر 2020 ان الرئيس قيس سعيّد سلّم اليوم &nbsp;خلال موكب انت`,
+        title : `أعلنت رئاسة الجمهورية مساء اليوم الخميس 22 اكتوبر 2020 ان الرئيس قيس سعيّد سلّم اليوم &nbsp;خلال موكب انت`,
+        type:"society",
+        read_number : 8965
+    },
+    {
+        mainLink : "/ar/article/11724/%D8%A7%D9%84%D9%85%D9%86%D8%B3%D8%AA%D9%8A%D8%B1-%D8%AA%D8%AA%D8%B9%D8%A7%D9%81%D9%89-%D9%88%D8%AA%D8%A3%D8%AE%D8%B0-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D8%A7%D9%84%D9%8A", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/medium/1603390327.jpg", 
+        figCaptionLink : "/ar/articles/11/%D9%88%D8%B7%D9%86%D9%8A%D8%A9", 
+        figCaption : "وطنية", 
+        time : " 2020-10-22 19:12", 
+        description : `تم اليوم الخميس 22 اكتوبر 2020 الاتفاق على الإبقاء على نفس الإجراءات و القرارات التي تم اتخاذها سابق`,
+        title : `تم اليوم الخميس 22 اكتوبر 2020 الاتفاق على الإبقاء على نفس الإجراءات و القرارات التي تم اتخاذها سابق`,
+        type:"politics",
+        read_number : 13354
+    },
+    {
+        mainLink : "/ar/article/11723/%D8%A7%D8%B3%D9%86%D8%A7%D8%AF-%D8%A7%D9%84%D8%AA%D9%84%D8%A7%D9%82%D9%8A%D8%AD-%D8%A8%D9%88%D8%B5%D9%81%D8%A9-%D8%B7%D8%A8%D9%8A%D8%A9-%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D8%AF%D9%84%D8%A9-%D8%AA%D8%B1%D9%81%D8%B6-%D9%82%D8%B1%D8%A7%D8%B1-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD-%D8%A9", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/medium/1603389535.jpg", 
+        figCaptionLink : "/ar/articles/11/%D9%88%D8%B7%D9%86%D9%8A%D8%A9", 
+        figCaption : "وطنية", 
+        time : "2020-10-22 18:58", 
+        description : `...أعلنت هيئة الصيادلة في بلاغ لها اليوم الخميس 22 أكتوبر 2020، رفضها القرار الذي أعلن عنه وزير الصحة ف`,
+        title : `...أعلنت هيئة الصيادلة في بلاغ لها اليوم الخميس 22 أكتوبر 2020، رفضها القرار الذي أعلن عنه وزير الصحة ف`,
+        type:"society",
+        read_number : 78475
+    },
+    {
+        mainLink : "/ar/article/11722/%D9%82%D8%B1%D8%B6-%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D8%A8-140-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D9%84%D8%AA%D9%88%D9%86%D8%B3-%D9%87%D8%B0%D9%87-%D8%A3%D9%88%D8%AC%D9%87-%D8%B5%D8%B1%D9%81%D9%87%D8%A7", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/medium/1603388983.jpg", 
+        figCaptionLink : "/ar/articles/11/%D9%88%D8%B7%D9%86%D9%8A%D8%A9", 
+        figCaption : "وطنية", 
+        time : "2020-10-22 18:49", 
+        description : `وقعت تونس والوكالة الفرنسية للتنمية، اليوم الخميس، اتفاقا إطاريا لخط تمويل مبدئي لدعم السياسات العمو`,
+        title : `وقعت تونس والوكالة الفرنسية للتنمية، اليوم الخميس، اتفاقا إطاريا لخط تمويل مبدئي لدعم السياسات العمو`,
+        type:"politics",
+        read_number : 89854
+    },
+    {
+        mainLink : "/ar/article/11721/%D9%8A%D8%B2%D9%86-318-%D9%83%D9%8A%D9%84%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A7-%D8%B1%D8%A7%D9%81%D8%B9%D8%A9-%D9%84%D8%A5%D8%AC%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%B1%D8%AC%D9%84-%D8%A7%D9%84%D8%A3%D9%83%D8%AB%D8%B1-%D8%A8%D8%AF%D8%A7%D9%86%D8%A9-%D9%85%D9%86-%D8%B4%D9%82%D8%AA%D9%87-%D9%81%D9%8A-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/medium/1603388562.jpg", 
+        figCaptionLink : "/ar/articles/13/%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9", 
+        figCaption : "عالمية", 
+        time : "2020-10-22 18:42", 
+        description : `...نُقل الرجل الأكثر بدانة في بريطانيا من شقته لتلقي العلاج بالمستشفى باستخدام رافعة بعد أن وصل وزنه إل`,
+        title : `...نُقل الرجل الأكثر بدانة في بريطانيا من شقته لتلقي العلاج بالمستشفى باستخدام رافعة بعد أن وصل وزنه إل`,
+        type:"society",
+        read_number : 4575
+    },
+    {
+        mainLink : "/ar/article/11665/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/medium/1603317577.jpg", 
+        figCaptionLink : "", 
+        figCaption : "", 
+        time : "2020-10-21 22:56", 
+        description : `دوري أبطال أوروبا: نتائج مباريات اليوم`,
+        title : `دوري أبطال أوروبا: نتائج مباريات اليوم`,
+        type:"sport",
+        read_number : 2321
+    },
+    {
+        mainLink : "/ar/article/11627/%D8%A7%D9%84%D9%86%D8%AC%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%AD%D9%84%D9%8A-%D9%8A-%D8%B3%D9%88-%D9%8A-%D9%88%D8%B6%D8%B9%D9%8A%D8%AA%D9%87-%D9%88%D9%8A-%D8%A4%D9%85-%D9%86-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%AA%D9%87-%D9%81%D9%8A-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D9%83%D8%A7%D9%81", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/medium/1603283726.png", 
+        figCaptionLink : "", 
+        figCaption : "", 
+        time : " 2020-10-21 13:35", 
+        description : `النجم الساحلي يُسوّي وضعيته ويُؤمّن مشاركته في كأس الكاف`,
+        title : `النجم الساحلي يُسوّي وضعيته ويُؤمّن مشاركته في كأس الكاف`,
+        type:"sport",
+        read_number : 2144
+    },
+    {
+        mainLink : "/ar/article/11624/%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D8%AC%D9%8A-%D8%AA%D8%B4%D9%8A%D8%AF-%D8%A8%D8%B7%D8%A7%D8%B1%D9%82-%D8%A8%D9%88%D8%B4%D9%85%D8%A7%D9%88%D9%8A", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/medium/1603280598.jpg", 
+        figCaptionLink : "", 
+        figCaption : "", 
+        time : "2020-10-21 12:43", 
+        description : `هيئة الترجي تشيد بطارق بوشماوي`,
+        title : `هيئة الترجي تشيد بطارق بوشماوي`,
+        type:"sport",
+        read_number : 1455
+    },
+    {
+        mainLink : "/ar/article/11593/%D8%A8%D9%86-%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9-%D9%8A%D8%B5%D9%84-%D8%AA%D9%88%D9%86%D8%B3-%D9%84%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D9%85%D8%B9-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/medium/1603235439.jpg", 
+        figCaptionLink : "", 
+        figCaption : "", 
+        time : "2020-10-21 00:10", 
+        description : `بن عيادة يصل تونس للتوقيع مع الإفريقي`,
+        title : `بن عيادة يصل تونس للتوقيع مع الإفريقي`,
+        type:"sport",
+        read_number : 3255
+    },
+    {
+        mainLink : "/ar/article/11638/%D8%AA%D8%A3%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-36-%D9%84%D9%85%D8%B9%D8%B1%D8%B6-%D8%AA%D9%88%D9%86%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/big/1603293682.jpg", 
+        figCaptionLink : "/ar/articles/4/%D8%AB%D9%82%D8%A7%D9%81%D8%A9", 
+        figCaption : "ثقافة", 
+        time : "2020-10-21 16:21", 
+        description : `أعلنت الهيئة المديرة للدورة 36 لمعرض تونس الدولي للكتاب، في بلاغ اليوم الأربعاء 21 أكتوبر 2020، تأجيل تنظيم فعاليات المعرض إلى ربيع 2021، على أن يتم الإعلان عن الموعد الجديد في أجل قريب`,
+        title : `تأجيل الدورة 36 لمعرض تونس الدولي للكتاب`,
+        type:"culture",
+        read_number : 2547
+    },
+    {
+        mainLink : "/ar/article/11388/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%AA%D9%86%D8%B9%D9%89-%D8%A7%D9%84%D9%85%D8%B7%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D8%B1%D8%A7%D8%AD%D9%84%D8%A9-%D9%86%D8%B9%D9%85%D8%A9", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/medium/1603017957.jpg", 
+        figCaptionLink : "/ar/articles/4/%D8%AB%D9%82%D8%A7%D9%81%D8%A9", 
+        figCaption : "ثقافة", 
+        time : "2020-10-18 11:45", 
+        description : `وزارة الثقافة تنعى المطربة الراحلة نعمة`,
+        title : `وزارة الثقافة تنعى المطربة الراحلة نعمة`,
+        type:"culture",
+        read_number : 2547
+    },
+    {
+        mainLink : "/ar/article/11375/%D8%A7%D9%84%D9%84%D9%87-%D8%A3%D9%83%D8%A8%D8%B1-%D8%A7%D9%84%D9%85%D8%B7%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D9%86%D8%B9%D9%85%D8%A9-%D9%81%D9%8A-%D8%B0%D9%85-%D8%A9-%D8%A7%D9%84%D9%84%D9%87", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/medium/1603011047.png", 
+        figCaptionLink : "/ar/articles/4/%D8%AB%D9%82%D8%A7%D9%81%D8%A9", 
+        figCaption : "ثقافة", 
+        time : "2020-10-18 09:50", 
+        description : `(الله أكبر) - المطربة التونسية القديرة السيدة نعمة في ذمّة الله`,
+        title : `(الله أكبر) - المطربة التونسية القديرة السيدة نعمة في ذمّة الله`,
+        type:"culture",
+        read_number : 2547
+    },
+    {
+        mainLink : "/ar/article/11710/%D8%AD%D8%A7%D9%84%D8%AA%D9%87-%D8%AD%D8%B1%D8%AC%D8%A9-%D8%B7%D9%81%D9%84-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D9%88%D8%A7%D9%84%D9%86%D8%B5%D9%81-%D9%8A%D8%A8%D8%AA%D9%84%D8%B9-%D9%83%D9%85%D9%8A%D8%A9-%D9%85%D9%86-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AF%D9%87", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/small/1603377584.jpg", 
+        figCaptionLink : "", 
+        figCaption : "", 
+        time : "2020-10-18 09:50", 
+        description : `(حالته حرجة) - طفل السنة والنصف يبتلع كمية من مخدرات والده `,
+        title : `(حالته حرجة) - طفل السنة والنصف يبتلع كمية من مخدرات والده `,
+        type:"law",
+        read_number : 2547
+    },
+    {
+        mainLink : "/ar/article/11581/%D9%85%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D9%83%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%AC-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%85%D8%B9-6-%D9%85%D8%AD%D8%A7%D9%85%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D8%AF-%D9%8A%D8%AA%D8%AD%D8%AF-%D8%AB-%D9%84-%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/small/1603223407.png", 
+        figCaptionLink : "", 
+        figCaption : "", 
+        time : "2020-10-18 09:50", 
+        description : `(من بينهم المحامية المشتكية على رئيس مركز المروج) - التحقيق مع 6 محامين والعميد يتحدّث لـ"الاخبارية"`,
+        title : `(من بينهم المحامية المشتكية على رئيس مركز المروج) - التحقيق مع 6 محامين والعميد يتحدّث لـ"الاخبارية"`,
+        type:"law",
+        read_number : 2547
+    },
+    {
+        mainLink : "/ar/article/11577/%D9%81%D9%8A-%D9%82%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D9%83%D8%B4%D9%83-%D9%88%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D9%82%D8%B5%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%84-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/small/1603221511.jpg", 
+        figCaptionLink : "", 
+        figCaption : "", 
+        time : "2020-10-18 09:50", 
+        description : `(في قضية الكشك) - والي القصرين المقال أمام القضاء`,
+        title : `(في قضية الكشك) - والي القصرين المقال أمام القضاء`,
+        type:"law",
+        read_number : 2547
+    },
+    {
+        mainLink : "/ar/article/11573/%D9%85-%D8%AE%D8%B7-%D8%B7-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84-%D8%A7%D9%84%D8%B7%D8%A8%D9%88%D8%A8%D9%8A-%D9%83%D8%A7%D8%AA%D8%A8-%D8%B9%D8%A7%D9%85-%D8%AD%D8%B2%D8%A8-%D9%85%D8%B9%D8%B1%D9%88%D9%81-%D8%B6%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/small/1603217230.jpg", 
+        figCaptionLink : "", 
+        figCaption : "", 
+        time : "2020-10-18 11:45", 
+        description : `مُخطّط اغتيال الطبوبي: كاتب عام حزب معروف ضمن المتهمين`,
+        title : `مُخطّط اغتيال الطبوبي: كاتب عام حزب معروف ضمن المتهمين`,
+        type:"law",
+        read_number : 2547
+    },
+    {
+        mainLink : "/ar/article/11493/%D9%87%D8%B0%D8%A7-%D9%85%D8%A7-%D9%82%D8%B1-%D8%B1%D9%87-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D9%81%D9%8A-%D9%82%D8%B6%D9%8A%D8%A9-%D9%81%D8%B3%D8%A7%D8%AF-%D9%85%D8%A7%D9%84%D9%8A-%D9%85%D8%AA%D9%87%D9%85-%D9%81%D9%8A%D9%87%D8%A7-%D8%B4%D9%81%D9%8A%D9%82-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D9%8A%D8%A9-%D9%88%D8%B4%D9%8A%D8%AE-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%AA%D9%88%D9%86%D8%B3-%D8%B3%D8%A7%D9%8A%D9%82%D8%A7", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/small/1603120611.jpg", 
+        figCaptionLink : "", 
+        figCaption : "", 
+        time : "2020-10-18 11:45", 
+        description : `هذا ما قرّره القضاء في قضية فساد مالي متهم فيها  شفيق الجراية وشيخ مدينة تونس سايقا`,
+        title : `هذا ما قرّره القضاء في قضية فساد مالي متهم فيها  شفيق الجراية وشيخ مدينة تونس سايقا`,
+        type:"law",
+        read_number : 2547
+    },
+    {
+        mainLink : "/ar/article/11658/%D8%AD%D9%85%D8%A9-%D8%A7%D9%84%D9%87%D9%85%D8%A7%D9%85%D9%8A-%D9%81%D9%8A-%D9%84%D8%AD%D8%B8%D8%A7%D8%AA-%D8%A5%D8%A8%D8%AF%D8%A7%D8%B9-%D8%A3%D9%8A%D9%87%D8%A7-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%B1%D8%A7%D8%B6%D9%8A%D8%A9-%D8%AA%D8%AA%D8%B9%D8%A7%D9%81%D9%89-%D9%85%D9%86-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%88%D8%A7%D9%84%D9%88%D8%B7%D9%86-%D8%B3%D9%8A%D8%AA%D8%B9%D8%A7%D9%81%D9%89", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/medium/1603308834.jpg", 
+        figCaptionLink : "/ar/articles/11/%D9%88%D8%B7%D9%86%D9%8A%D8%A9", 
+        figCaption : "وطنية", 
+        time : "2020-10-21 20:33", 
+        description : `حمة الهمامي في لحظات إبداع: "أيها العالم ، راضية تتعافى من "كورونا" والوطن سيتعافى"`,
+        title : `حمة الهمامي في لحظات إبداع: "أيها العالم ، راضية تتعافى من "كورونا" والوطن سيتعافى"`,
+        type:"patriotism",
+        read_number : 2547
+    },
+    {
+        mainLink : "/ar/article/11659/%D8%A3%D9%84%D9%81%D8%A9-%D9%8A%D9%88%D8%B3%D9%81-%D8%AA%D9%83%D8%AA%D8%A8-%D8%AD%D9%88%D8%A7%D8%B1%D8%A7-%D8%A8%D9%8A%D9%86-%D9%86%D8%B9%D9%85%D8%A9-%D9%88%D8%B9%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%86%D8%A9", 
+        picture : "https://alikhbariaattounsia.com/uploads/content/medium/1603310055.png", 
+        figCaptionLink : "/ar/articles/11/%D9%88%D8%B7%D9%86%D9%8A%D8%A9", 
+        figCaption : "وطنية", 
+        time : " 2020-10-21 20:54", 
+        description : `ألفة يوسف تكتب حوارا بين نعمة وعلية في "الجنة"..!`,
+        title : `ألفة يوسف تكتب حوارا بين نعمة وعلية في "الجنة"..!`,
+        type:"patriotism",
+        read_number : 2547
+    }
+    
+]

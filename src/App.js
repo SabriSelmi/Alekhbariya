@@ -1,15 +1,18 @@
 import React from 'react';
-import './App.css';
+import Footer from './components/Footer';
 import NavBar from './components/NavBar/NavBar';
 import SideBar from './components/SideBar/SideBar';
-import HomePage from './pages/HomePage/HomePage';
+import Routes from './Routes';
 
 function App() {
   return (
     <React.Fragment>
       <SideBar/>
       <NavBar/>
-      <HomePage/>
+      <Routes/>
+      <div className="container-fluid">
+              <Footer/>
+      </div>
     </React.Fragment>
   );
 }
