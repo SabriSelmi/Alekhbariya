@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26909196a4008bfae66d9c9577b22566",
+    "revision": "a268111fe27bebfb3f45de42a74b5d19",
     "url": "/Alekhbariya/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Alekhbariya/static/css/2.94491f11.chunk.css"
   },
   {
-    "revision": "5925878519f58d408c27",
+    "revision": "8c82a463657b4cd8a589",
     "url": "/Alekhbariya/static/css/main.014bdffe.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Alekhbariya/static/js/2.8422ae54.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5925878519f58d408c27",
-    "url": "/Alekhbariya/static/js/main.0601d4e8.chunk.js"
+    "revision": "8c82a463657b4cd8a589",
+    "url": "/Alekhbariya/static/js/main.eef3caa5.chunk.js"
   },
   {
     "revision": "62a9dab807d7736d587d",
