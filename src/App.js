@@ -10,9 +10,7 @@ function App() {
       <SideBar/>
       <NavBar/>
       <Routes/>
-      <div className="container-fluid">
-              <Footer/>
-      </div>
+      <Footer/>
     </React.Fragment>
   );
 }
