@@ -8,6 +8,7 @@ const SideBar = () => {
     const toggleShow = (e) =>{
         setShow(!show)
         e.preventDefault()
+        e.stopPropagation()
         return false
     }
     return (
@@ -16,8 +17,12 @@ const SideBar = () => {
                 <div className="nano-content" tabIndex="0" style={{left: "-17px"}}>
                     <ul>
                         <li><Link title="الرئيسية" to="/">الرئيسية</Link></li>
-                        <li className={show ? "open" : ""}  onClick={toggleShow}>
-                        <a className="yay-sub-toggle" title="سياسة" href="/ar/articles/1/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9" >
+                        <li className={show ? "open" : ""}>
+                        <a className="yay-sub-toggle" 
+                            title="سياسة" 
+                            href="/ar/articles/1/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9"
+                            onClick={toggleShow}
+                        >
                         سياسة
                         <span className="yay-collapse-icon fa fa-angle-down"></span>
                         </a>

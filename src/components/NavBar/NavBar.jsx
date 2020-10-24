@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from "react";
+import React, {useCallback, useEffect, useState} from "react";
 import { Link } from "react-router-dom";
 
 const items = [
@@ -32,7 +32,8 @@ const NavBar = () =>{
     const [intervalId, setIntervalId] = useState();
     const [stopped, setStopped] = useState(false);
 
-    const toggleSideBar = () =>{
+    const toggleSideBar = useCallback((e) =>{
+        e.stopPropagation()
         let body = document.getElementsByTagName("body")[0];
         let className = classSideBar ? "ar yay-hide" : "ar overlay";
         let nano = document.getElementsByClassName("nano-pane")[0];
@@ -40,9 +41,11 @@ const NavBar = () =>{
         body.setAttribute("class", className);
         nano.setAttribute('class',nanoClass);
         setClassSideBar(!classSideBar);
-    }
+    },[classSideBar])
 
     useEffect(()=>{  
+        let body = document.getElementsByTagName("body")[0];
+        body.onclick = (e)=> body.className ==="ar overlay" ? toggleSideBar(e) : null;
         if(!stopped) {
              const interval = setInterval(() => {
                 if(marginRight > -1050){
@@ -53,7 +56,7 @@ const NavBar = () =>{
         return ()=> clearInterval(interval)
         }     
            
-    }, [marginRight, stopped]);
+    }, [marginRight, stopped,toggleSideBar]);
 
     if(marginRight <= -1050){
         setMarginRight(0) 
